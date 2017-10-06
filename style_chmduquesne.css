@@ -11,81 +11,89 @@
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
+    max-width: 920px;
     margin: auto;
-    background: #FFFFFF;
+    background: #FDFDFD;
     padding: 10px 10px 10px 10px;
 }
 
 /* Title of the resume */
 h1 {
-    font-size: 55px;
-    color: #757575;
-    text-align:center;
+    font-size: 42px;
+    color: #4f4f4f;
+    padding-left: 5px;
     margin-bottom:15px;
 }
-h1:hover {
-    background-color: #757575;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
+
+/* Align the title with the text blocks */
+h1:before {
+    content: "";
+    display: inline-block;
+    margin-right:0;
+    width: 16%;
 }
+
 
 /* Titles of categories */
 h2 {
-    /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
+    color: #4f4f4f;
+    margin-bottom:3px;
+    margin-top: 24px;
+    margin-left:16%;
+    /* Prevent border from going past the end of the text*/
+    margin-right:16%;
+    padding-left:5px;
+    border-bottom:1px solid #c0c0c0;
 }
-/* There is a bar just before each category */
-h2:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 16%;
-    height: 10px;
-    /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
-}
-h2:hover {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}
+
 
 /* Definitions */
 dt {
     float: left;
     clear: left;
-    width: 17%;
-    /*font-weight: bold;*/
+    width: 16%;
+    margin-bottom:10px;
+    text-align: right;
+    padding-right: 5px;
+    box-sizing:border-box;
+    font-weight: bold;
+    color: #9f9f9f;
 }
 dd {
-    margin-left: 17%;
-}
-p {
-    margin-top:0;
-    margin-bottom:7px;
+    margin-left: 16%;
+    margin-right:16%;
+    padding-left:5px;
+    margin-bottom:10px;
 }
 
-/* Blockquotes */
-blockquote {
-    text-align: center
+dl{
+    margin:0;
 }
+
+
+p {
+    margin:0;
+}
+
 
 /* Links */
 a {
-    text-decoration: none;
-    color: #397249;
+    /* Default blue gives my eyes cancer */
+    color:dodgerblue;
 }
 a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
+    background-color: #c0c0c0;
 }
 
+a:visited{
+    color:dodgerblue;
+}
 /* Horizontal separators */
 hr {
-    color: #A6A6A6;
+    background: #c0c0c0;
+    border:0;
+    height:1px;
 }
 
 table {

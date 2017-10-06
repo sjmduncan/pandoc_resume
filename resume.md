@@ -1,16 +1,15 @@
-Johnny Coder
-============
+% Johnny Coder
+&nbsp;
+:   <email@example.com> •
+   +00 (0)00 000 0000
 
-----
+:   In this variation we assume that people don't really need to know
+    your address since they're just gonna call you or email you
+    anyway. And put that info at the top since it doesn't take up much
+    room. Also this introductory paragraph is already way too long,
+    and maybe you don't even need it in the first place.
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
----------
+## Education
 
 2010-2014 (expected)
 :   **PhD, Computer Science**; Awesome University (MyTown)
@@ -19,33 +18,32 @@ Education
      Estimation Problem*
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **BSc, Computer Science**; University of HomeTown (HomeTown)
 
     *Minor: Awesomeology*
 
-Experience
-----------
+## Experience
 
-**Your Most Recent Work Experience:**
+2014 (current)
+:   **Your Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+	Short text containing the type of work done, results obtained,
+	lessons learned and other remarks. Can also include lists and
+	links:
 
-* First item
+	* First item
+	
+	* Item with [link](http://www.example.com). Links will work both in
+	the html and pdf versions.
+	
+2009-2014
+:   **That Other Job You Had**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    *Also with a short description.*
 
-**That Other Job You Had**
+## Technical Experience
 
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
+Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
@@ -81,20 +79,17 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+## Extra Section, Call it Whatever You Want
 
-* Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+&nbsp;
+:   You can have text aligned with the block.
+	
+	and another line/block of text 
+	
+Or
+:   you can have a description/mini-header on the left (in this case it's 'Or')
 
-* Random tidbit
+Hobbies
+:   Include endlessly tweaking my resume style and formatting.
 
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
