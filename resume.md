@@ -1,4 +1,15 @@
-% Johnny Coder
+---
+title: Johnny Coder (Oct 2017)
+author: Johnny Coder
+date: 2017-10-17
+keywords:
+  - Software Engineer
+  - Computer Vision
+  - CUDA
+  - C#
+---
+
+# Johnny Coder
 &nbsp;
 :   <email@example.com> •
    +00 (0)00 000 0000
