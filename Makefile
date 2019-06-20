@@ -1,4 +1,4 @@
-all: html docx rtf
+all: html
 
 html: html_resume.html
 html_resume.html: style_chmduquesne.css resume.md
@@ -17,4 +17,4 @@ resume.rtf: resume.md
 clean:
 	rm -f html_resume.html
 	rm -f docx_resume.docx
-	rm -f docx_resume.rtf
+	rm -f rtf_resume.rtf

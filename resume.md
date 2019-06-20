@@ -1,106 +1,62 @@
 ---
-title: Johnny Coder (Oct 2017)
-author: Johnny Coder
-date: 2017-10-17
-keywords:
-  - Software Engineer
-  - Computer Vision
-  - CUDA
-  - C#
+title: Stuart Duncan (June 2018)
+author: Stuart Duncan
+date: 2019-06-20
 ---
 
-# Johnny Coder
-&nbsp;
-:   <email@example.com> •
-   +00 (0)00 000 0000
+# Stuart Duncan
 
-:   In this variation we assume that people don't really need to know
-    your address since they're just gonna call you or email you
-    anyway. And put that info at the top since it doesn't take up much
-    room. Also this introductory paragraph is already way too long,
-    and maybe you don't even need it in the first place.
+> **<sjmduncan@gmail.com>**
 
 ## Education
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**Doctor of Philosophy, Information Science** (University of Otago)
+: 2018 (current)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Expected completion date is August 2021.
 
-2007-2010
-:   **BSc, Computer Science**; University of HomeTown (HomeTown)
+**Master of Electrical Engineering** (University of Canterbury)
+: 2012 to 2014
 
-    *Minor: Awesomeology*
+Thesis: Visual Control of Multi Rotor UAVs.
+
+
+**Bachelor of Electrical Engineering (Hons)**  (University of Canterbury)
+:   2007 to 2011
 
 ## Experience
 
-2014 (current)
-:   **Your Most Recent Work Experience:**
+**Research Assistant** (University of Otago)
+: Apr 2018 to Oct 2018
 
-	Short text containing the type of work done, results obtained,
-	lessons learned and other remarks. Can also include lists and
-	links:
+Develop real-time interactive voxel based virtual reality software to support future reasearch.
 
-	* First item
-	
-	* Item with [link](http://www.example.com). Links will work both in
-	the html and pdf versions.
-	
-2009-2014
-:   **That Other Job You Had**
+**Vision Systems Engineer** (Scott Technology)
+: Mar 2013 to Feb 2017
 
-    *Also with a short description.*
+I developed bespoke computer vision and industrial control software (CUDA, C#) for real-time robotic tracking of live animal movement.
+On-site installation and commissioning of vision equipment and software.
+Failure mode identification and analysis, and developing solutions.
+Notable contributions include:
 
-## Technical Experience
+- Software components which lifted test success rates from 75% to 90%
+- Optimization which yielded a 25% improvement in cycle time
 
-Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**CUDA Consultant** (Combus)
+:  Aug 2016 to Feb 2017
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Provide CUDA expertise to facilitate translating modeling software to CUDA. My role was to introduce a remote development team to CUDA concepts and ensure that the translated software could achieve optimal performance.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+## Publications
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+S. Duncan, M. Hayes, A. Bainbridge-Smith
+*Efﬁcient Feature Based Visual Servoing for Onboard Computer Vision*
+Dunedin, New Zealand: Electronics New Zealand Conference (ENZCon'12)
+10-12 December, 2012
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+\ 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-## Extra Section, Call it Whatever You Want
-
-
-&nbsp;
-:   You can have text aligned with the block.
-	
-	and another line/block of text 
-	
-Or
-:   you can have a description/mini-header on the left (in this case it's 'Or')
-
-Hobbies
-:   Include endlessly tweaking my resume style and formatting.
-
+R. Pearson ,J. Jordan., M. Falloon, S. Duncan, T. Read, Y.  Irani. and S. Weddell.
+*Parallelism of an MCU on an FPGA*
+Palmerston North, New Zealand: Electronics New Zealand Conference (ENZCon'11),
+21-22 November 2011.
